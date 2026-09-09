@@ -21,7 +21,7 @@
 ```bash
 mkdir -p ~/.claude/skills/tech-design-doc
 curl -o ~/.claude/skills/tech-design-doc/SKILL.md \
-  https://raw.githubusercontent.com/<YOUR_USER>/tech-design-doc/main/SKILL.md
+  https://raw.githubusercontent.com/lengfengng1-ai-architect/tech-design-doc/main/SKILL.md
 ```
 
 ## 使用
